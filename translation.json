@@ -1,0 +1,1502 @@
+{
+  "🏥 Patient Health Dashboard": {
+    "English": "🏥 Patient Health Dashboard",
+    "Tamil": "🏥 நோயாளர் நலன்கள் பலகை"
+  },
+  "Enter Your Health Data": {
+    "English": "Enter Your Health Data",
+    "Tamil": "உங்கள் நலவியல் தரவை உள்ளிடவும்"
+  },
+  "Blood Pressure (mmHg)": {
+    "English": "Blood Pressure (mmHg)",
+    "Tamil": "ரத்த அழுத்தம் (mmHg)"
+  },
+  "Heart Rate (bpm)": {
+    "English": "Heart Rate (bpm)",
+    "Tamil": "இதய துடிப்பு (bpm)"
+  },
+  "Blood Sugar Level (mg/dL)": {
+    "English": "Blood Sugar Level (mg/dL)",
+    "Tamil": "இரத்த சர்க்கரை அளவு (mg/dL)"
+  },
+  "Body Temperature (°C)": {
+    "English": "Body Temperature (°C)",
+    "Tamil": "உடல் வெப்பநிலை (°C)"
+  },
+  "Save Data": {
+    "English": "Save Data",
+    "Tamil": "தரவை சேமிக்கவும்"
+  },
+  "📊 Health Data Log": {
+    "English": "📊 Health Data Log",
+    "Tamil": "📊 நலவியல் பதிவுகள்"
+  },
+  "📈 Health Trends": {
+    "English": "📈 Health Trends",
+    "Tamil": "📈 நலன்கள் போக்குகள்"
+  },
+  "Download Full Report": {
+    "English": "Download Full Report",
+    "Tamil": "முழு அறிக்கையை பதிவிறக்கவும்"
+  },
+  "Prediction Results": {
+    "English": "Prediction Results",
+    "Tamil": "முன்னறிவிப்பு முடிவுகள்"
+  },
+  "👤 Patient Details": {
+    "English": "👤 Patient Details",
+    "Tamil": "👤 நோயாளி விவரங்கள்"
+  },
+  "Patient Name": {
+    "English": "Patient Name",
+    "Tamil": "பெயர்"
+  },
+  "Age": {
+    "English": "Age",
+    "Tamil": "வயது"
+  },
+  "Gender": {
+    "English": "Gender",
+    "Tamil": "பாலினம்"
+  },
+  "Download PDF Report": {
+    "English": "Download PDF Report",
+    "Tamil": "PDF அறிக்கையைப் பதிவிறக்கவும்"
+  },
+  "Monitor and log vital health data for better tracking and care.": {
+    "English": "Monitor and log vital health data for better tracking and care.",
+    "Tamil": "சிறந்த கண்காணிப்பு மற்றும் பராமரிப்புக்காக முக்கிய சுகாதாரத் தரவைக் கண்காணித்து பதிவு செய்யவும்."
+  },
+  "✅ Data saved successfully!": {
+    "English": "✅ Data saved successfully!",
+    "Tamil": "✅ தரவு வெற்றிகரமாக சேமிக்கப்பட்டது!"
+  },
+  "⚠️ High Temperature detected! Possible fever or infection.": {
+    "English": "⚠️ High Temperature detected! Possible fever or infection.",
+    "Tamil": "⚠️ அதிக வெப்பநிலை கண்டறியப்பட்டது! காய்ச்சல் அல்லது தொற்று ஏற்பட வாய்ப்புள்ளது."
+  },
+  "✅ Normal body temperature.": {
+    "English": "✅ Normal body temperature.",
+    "Tamil": "✅ சாதாரண உடல் வெப்பநிலை."
+  },
+  "🟢 Normal Temperature": {
+    "English": "🟢 Normal Temperature",
+    "Tamil": "🟢 சாதாரண வெப்பநிலை"
+  },
+  "🟡 Low-grade Fever": {
+    "English": "🟡 Low-grade Fever",
+    "Tamil": "🟡 குறைந்த தர காய்ச்சல்"
+  },
+  "🟠 Moderate Fever": {
+    "English": "🟠 Moderate Fever",
+    "Tamil": "🟠 மிதமான காய்ச்சல்"
+  },
+  "🔴 High Fever!": {
+    "English": "🔴 High Fever!",
+    "Tamil": "🔴 அதிக காய்ச்சல்!"
+  },
+  "No signs of fever. Stay hydrated and maintain your routine.": {
+    "English": "No signs of fever. Stay hydrated and maintain your routine.",
+    "Tamil": "காய்ச்சலுக்கான அறிகுறிகள் எதுவும் இல்லை. நீர்ச்சத்துடன் இருங்கள் மற்றும் உங்கள் வழக்கத்தை கடைபிடியுங்கள்."
+  },
+  "Drink plenty of fluids.": {
+    "English": "Drink plenty of fluids.",
+    "Tamil": "நிறைய திரவங்களை குடிக்கவும்."
+  },
+  "Monitor temperature regularly.": {
+    "English": "Monitor temperature regularly.",
+    "Tamil": "வெப்பநிலையை தவறாமல் கண்காணிக்கவும்."
+  },
+  "Rest is advised.": {
+    "English": "Rest is advised.",
+    "Tamil": "ஓய்வு பரிந்துரைக்கப்படுகிறது."
+  },
+  "Avoid strenuous activity.": {
+    "English": "Avoid strenuous activity.",
+    "Tamil": "கடுமையான செயல்பாடுகளைத் தவிர்க்கவும்."
+  },
+  "Keep body cool with light clothes.": {
+    "English": "Keep body cool with light clothes.",
+    "Tamil": "லேசான ஆடைகளால் உடலை குளிர்ச்சியாக வைத்திருங்கள்."
+  },
+  "Use paracetamol if advised by doctor.": {
+    "English": "Use paracetamol if advised by doctor.",
+    "Tamil": "மருத்துவர் பரிந்துரைத்தால் பாராசிட்டமால் பயன்படுத்தவும்."
+  },
+  "Seek medical help if fever persists.": {
+    "English": "Seek medical help if fever persists.",
+    "Tamil": "காய்ச்சல் தொடர்ந்தால் மருத்துவ உதவியை நாடுங்கள்."
+  },
+  "Seek immediate medical attention.": {
+    "English": "Seek immediate medical attention.",
+    "Tamil": "உடனடியாக மருத்துவ உதவியை நாடுங்கள்."
+  },
+  "Take antipyretics as prescribed.": {
+    "English": "Take antipyretics as prescribed.",
+    "Tamil": "பரிந்துரைக்கப்பட்டபடி ஆண்டிபிரைடிக் மருந்துகளை எடுத்துக் கொள்ளுங்கள்."
+  },
+  "Stay in a cool, ventilated room.": {
+    "English": "Stay in a cool, ventilated room.",
+    "Tamil": "குளிர்ந்த, காற்றோட்டமான அறையில் தங்கவும்."
+  },
+  "Drink oral rehydration solutions (ORS).": {
+    "English": "Drink oral rehydration solutions (ORS).",
+    "Tamil": "வாய்வழி நீரேற்றக் கரைசல்களை (ORS) குடிக்கவும்."
+  },
+  "📝 Suggestions": {
+    "English": "📝 Suggestions",
+    "Tamil": "📝 பரிந்துரைகள்"
+  },
+  "🩺 Hypertension Risk Prediction": {
+    "English": "🩺 Hypertension Risk Prediction",
+    "Tamil": "🩺 உயர் இரத்த அழுத்தம் ஆபத்து கணிப்பு"
+  },
+  "Do you have any heart disease?": {
+    "English": "Do you have any heart disease?",
+    "Tamil": "உங்களுக்கு இதய நோய் உண்டா?"
+  },
+  "Ever Married": {
+    "English": "Ever Married",
+    "Tamil": "திருமணம் செய்துள்ளீர்களா?"
+  },
+  "Work Type": {
+    "English": "Work Type",
+    "Tamil": "வேலை வகை"
+  },
+  "Residence Type": {
+    "English": "Residence Type",
+    "Tamil": "வாழ்வு பகுதி"
+  },
+  "Average Glucose Level (mg/dL)": {
+    "English": "Average Glucose Level (mg/dL)",
+    "Tamil": "சராசரி குளுகோஸ் நிலை (மிகிராம்/திசி)"
+  },
+  "Body Mass Index (BMI)": {
+    "English": "Body Mass Index (BMI)",
+    "Tamil": "உடல் எடை குறியீடு (BMI)"
+  },
+  "Smoking Status": {
+    "English": "Smoking Status",
+    "Tamil": "புகை பிடிப்பது"
+  },
+  "Systolic (mmHg)": {
+    "English": "Systolic (mmHg)",
+    "Tamil": "சிஸ்டொலிகல் (மி.மெ. ஹெச்.ஜி.)"
+  },
+  "Diastolic (mmHg)": {
+    "English": "Diastolic (mmHg)",
+    "Tamil": "டயஸ்டொலிகல் (மி.மெ. ஹெச்.ஜி.)"
+  },
+  "Predict Hypertension Risk": {
+    "English": "Predict Hypertension Risk",
+    "Tamil": "உயர் இரத்த அழுத்தம் ஆபத்தைக் கணி"
+  },
+  "⚠️ High Risk of Hypertension Detected!": {
+    "English": "⚠️ High Risk of Hypertension Detected!",
+    "Tamil": "⚠️ உயர் இரத்த அழுத்தம் ஆபத்து கண்டறியப்பட்டுள்ளது!"
+  },
+  "✅ Low Risk of Hypertension.": {
+    "English": "✅ Low Risk of Hypertension.",
+    "Tamil": "✅ குறைந்த இரத்த அழுத்தம் ஆபத்து."
+  },
+  "Blood Pressure Category": {
+    "English": "Blood Pressure Category",
+    "Tamil": "ரத்த அழுத்த வகை"
+  },
+  "Advice": {
+    "English": "Advice",
+    "Tamil": "சிறந்த ஆலோசனை"
+  },
+  "📊 Feature Importance": {
+    "English": "📊 Feature Importance",
+    "Tamil": "📊 அம்ச முக்கியத்துவம்"
+  },
+  "🔒 Login / 📝 Register": {
+    "English": "🔒 Login / 📝 Register",
+    "Tamil": "🔒 உள்நுழை / 📝 பதிவு"
+  },
+  "🔐 Login": {
+    "English": "🔐 Login",
+    "Tamil": "🔐 உள்நுழை"
+  },
+  "Login": {
+    "English": "Login",
+    "Tamil": "உள்நுழை"
+  },
+  "📝 Register": {
+    "English": "📝 Register",
+    "Tamil": "📝 பதிவு செய்"
+  },
+  "Register": {
+    "English": "Register",
+    "Tamil": "பதிவு செய்"
+  },
+  "Email": {
+    "English": "Email",
+    "Tamil": "மின்னஞ்சல்"
+  },
+  "Password": {
+    "English": "Password",
+    "Tamil": "கடவுச்சொல்"
+  },
+  "New Email": {
+    "English": "New Email",
+    "Tamil": "புதிய மின்னஞ்சல்"
+  },
+  "New Password": {
+    "English": "New Password",
+    "Tamil": "புதிய கடவுச்சொல்"
+  },
+  "Confirm Password": {
+    "English": "Confirm Password",
+    "Tamil": "கடவுச்சொல்லை உறுதிப்படுத்து"
+  },
+  "Did you mean": {
+    "English": "Did you mean",
+    "Tamil": "நீங்கள் குறிப்பிடுவது"
+  },
+  "Welcome": {
+    "English": "Welcome",
+    "Tamil": "வணக்கம்"
+  },
+  "Login failed. Please check your credentials.": {
+    "English": "Login failed. Please check your credentials.",
+    "Tamil": "உள்நுழை தவறியது. உங்கள் தகவல்களை சரிபார்க்கவும்."
+  },
+  "Passwords do not match.": {
+    "English": "Passwords do not match.",
+    "Tamil": "கடவுச்சொற்கள் பொருந்தவில்லை."
+  },
+  "Password too weak.": {
+    "English": "Password too weak.",
+    "Tamil": "கடவுச்சொல் மிகவும் பலவீனமாக உள்ளது."
+  },
+  "Email is required.": {
+    "English": "Email is required.",
+    "Tamil": "மின்னஞ்சல் தேவை."
+  },
+  "Account created successfully! You can now log in.": {
+    "English": "Account created successfully! You can now log in.",
+    "Tamil": "கணக்கு வெற்றிகரமாக உருவாக்கப்பட்டது! நீங்கள் இப்போது உள்நுழையலாம்."
+  },
+  "Registration failed": {
+    "English": "Registration failed",
+    "Tamil": "பதிவு தோல்வியடைந்தது"
+  },
+  "Logout": {
+    "English": "Logout",
+    "Tamil": "வெளியேறு"
+  },
+  "BMI Calculator": {
+    "English": "BMI Calculator",
+    "Tamil": "BMI கணக்கிடுபவர்"
+  },
+  "Height (in cm)": {
+    "English": "Height (in cm)",
+    "Tamil": "உயரம் (செ.மி)"
+  },
+  "Weight (in kg)": {
+    "English": "Weight (in kg)",
+    "Tamil": "எடை (கி.கி)"
+  },
+  "Your BMI": {
+    "English": "Your BMI",
+    "Tamil": "உங்கள் BMI"
+  },
+  "Underweight": {
+    "English": "Underweight",
+    "Tamil": "குறைந்த எடை"
+  },
+  "Normal weight": {
+    "English": "Normal weight",
+    "Tamil": "சாதாரண எடை"
+  },
+  "Overweight": {
+    "English": "Overweight",
+    "Tamil": "அதிக எடை"
+  },
+  "Obese": {
+    "English": "Obese",
+    "Tamil": "பலம் அதிகம்"
+  },
+  "💪 BMI Calculator": {
+    "English": "💪 BMI Calculator",
+    "Tamil": "💪 BMI கணக்கிடுபவர்"
+  },
+  "🧮 Your BMI": {
+    "English": "🧮 Your BMI",
+    "Tamil": "🧮 உங்கள் BMI"
+  },
+  "🔹 Underweight": {
+    "English": "🔹 Underweight",
+    "Tamil": "🔹 குறைந்த எடை"
+  },
+  "✅ Normal weight": {
+    "English": "✅ Normal weight",
+    "Tamil": "✅ சாதாரண எடை"
+  },
+  "🟠 Overweight": {
+    "English": "🟠 Overweight",
+    "Tamil": "🟠 அதிக எடை"
+  },
+  "🔴 Obese": {
+    "English": "🔴 Obese",
+    "Tamil": "🔴 பலம் அதிகம்"
+  },
+  "📋 Health Risk Overview": {
+    "English": "📋 Health Risk Overview",
+    "Tamil": "📋 ஆரோக்கிய பரிசோதனை சிறு புள்ளி"
+  },
+  "Explain Risk Factors (Click to View Details)": {
+    "English": "Explain Risk Factors (Click to View Details)",
+    "Tamil": "ஆபத்து காரணி விளக்கங்கள் (விவரங்களை காண கிளிக் செய்க)"
+  },
+  "📋 Health Risk Summary": {
+    "English": "📋 Health Risk Summary",
+    "Tamil": "📋 ஆரோக்கிய ஆபத்து சுருக்கம்"
+  },
+  "Low Risk ✅ Maintain healthy habits!": {
+    "English": "Low Risk ✅ Maintain healthy habits!",
+    "Tamil": "குறைந்த ஆபத்து ✅ ஆரோக்கிய வழக்குகளை தொடருங்கள்!"
+  },
+  "Moderate Risk ⚠️ Watch your health closely!": {
+    "English": "Moderate Risk ⚠️ Watch your health closely!",
+    "Tamil": "நடுத்தரவு ஆபத்து ⚠️ உங்கள் ஆரோக்கியத்தை கவனமாக கண்காணிக்கவும்!"
+  },
+  "High Risk ❗ Immediate medical attention advised!": {
+    "English": "High Risk ❗ Immediate medical attention advised!",
+    "Tamil": "உயர்ந்த ஆபத்து ❗ உடனடி மருத்துவ உதவி பரிந்துரைக்கப்படுகிறது!"
+  },
+  "Risk Score": {
+    "English": "Risk Score",
+    "Tamil": "ஆபத்து மதிப்பெண்"
+  },
+  "💡 Personalized Suggestions:": {
+    "English": "💡 Personalized Suggestions:",
+    "Tamil": "💡 பிரத்தியேக பரிந்துரைகள்:"
+  },
+  "Continue a balanced diet": {
+    "English": "Continue a balanced diet",
+    "Tamil": "சீரான உணவு பழக்கத்தை தொடரவும்"
+  },
+  "Stay physically active": {
+    "English": "Stay physically active",
+    "Tamil": "இரு உடல் ஆரோக்கியமாக செயலில் இருங்கள்"
+  },
+  "Get routine checkups": {
+    "English": "Get routine checkups",
+    "Tamil": "நிலையான பரிசோதனைகள் மேற்கொள்ளவும்"
+  },
+  "Consult a nutritionist": {
+    "English": "Consult a nutritionist",
+    "Tamil": "ஒரு ஊட்டச்சத்து நிபுணரிடம் ஆலோசனை பெறவும்"
+  },
+  "Monitor BP, Sugar daily": {
+    "English": "Monitor BP, Sugar daily",
+    "Tamil": "BP, சர்க்கரை தினசரி கண்காணிக்கவும்"
+  },
+  "Mild exercise recommended": {
+    "English": "Mild exercise recommended",
+    "Tamil": "இனிமையான உடற்பயிற்சி பரிந்துரைக்கப்படுகிறது"
+  },
+  "Consult your doctor urgently": {
+    "English": "Consult your doctor urgently",
+    "Tamil": "உங்கள் மருத்துவரிடம் அவசரமாக ஆலோசனை பெறவும்"
+  },
+  "Strict diet and medication": {
+    "English": "Strict diet and medication",
+    "Tamil": "கடுமையான உணவு மற்றும் மருந்துகள்"
+  },
+  "Avoid stress and monitor vitals daily": {
+    "English": "Avoid stress and monitor vitals daily",
+    "Tamil": "மன அழுத்தத்தைத் தவிர்க்கவும் மற்றும் முக்கியமான தகவல்களை தினசரி கண்காணிக்கவும்"
+  },
+  "🚑 Appointment Request (Recommended)": {
+    "English": "🚑 Appointment Request (Recommended)",
+    "Tamil": "🚑 பேராளப்பணி கோரிக்கை (பரிந்துரைக்கப்படுகிறது)"
+  },
+  "Contact Number": {
+    "English": "Contact Number",
+    "Tamil": "தொடர்பு எண்"
+  },
+  "Preferred Appointment Date": {
+    "English": "Preferred Appointment Date",
+    "Tamil": "பிரியமான பேராளப்பணி தேதி"
+  },
+  "Preferred Time": {
+    "English": "Preferred Time",
+    "Tamil": "பிரியமான நேரம்"
+  },
+  "🤒 Enter Your Symptoms Below": {
+    "English": "🤒 Enter Your Symptoms Below",
+    "Tamil": "🤒 உங்கள் அறிகுறிகளை கீழே உள்ளிடவும்"
+  },
+  "Submit Appointment Request": {
+    "English": "Submit Appointment Request",
+    "Tamil": "பேராளப்பணி கோரிக்கையை சமர்ப்பிக்கவும்"
+  },
+  "✅ Your appointment request has been submitted!": {
+    "English": "✅ Your appointment request has been submitted!",
+    "Tamil": "✅ உங்கள் பேராளப்பணி கோரிக்கை சமர்ப்பிக்கப்பட்டுள்ளது!"
+  },
+  "🧠 Disease Prediction using Machine Learning": {
+    "English": "🧠 Disease Prediction using Machine Learning",
+    "Tamil": "🧠 யந்திர கற்றல் மூலம் நோய்கள் கணிப்பது"
+  },
+  "What are your symptoms?": {
+    "English": "What are your symptoms?",
+    "Tamil": "உங்களுக்குத் தோன்றும் அறிகுறிகள் என்ன?"
+  },
+  "Predict": {
+    "English": "Predict",
+    "Tamil": "கணிக்கவும்"
+  },
+  "🔍 Predict": {
+    "English": "🔍 Predict",
+    "Tamil": "🔍 கணிக்கவும்"
+  },
+  "Predicted Disease": {
+    "English": "Predicted Disease",
+    "Tamil": "கணிக்கப்பட்ட நோய்"
+  },
+  "Confidence": {
+    "English": "Confidence",
+    "Tamil": "நம்பிக்கை"
+  },
+  "Enter the age of the patient.": {
+    "English": "Enter the age of the patient.",
+    "Tamil": "நோயாளியின் வயதை உள்ளிடவும்."
+  },
+  "Residential living area of the patient.": {
+    "English": "Residential living area of the patient.",
+    "Tamil": "நோயாளியின் வாழும் இடம்."
+  },
+  "Average glucose level in the blood.": {
+    "English": "Average glucose level in the blood.",
+    "Tamil": "இரத்தத்தில் உள்ள சராசரி குளுக்கோஸ் அளவு."
+  },
+  "Body mass index of the patient.": {
+    "English": "Body mass index of the patient.",
+    "Tamil": "நோயாளியின் உடல் மெத்தை குறியீடு."
+  },
+  "Smoking behavior of the patient.": {
+    "English": "Smoking behavior of the patient.",
+    "Tamil": "நோயாளியின் புகைபிடிக்கும் பழக்கம்."
+  },
+  "⚠️ Please enter realistic glucose and BMI values.": {
+    "English": "⚠️ Please enter realistic glucose and BMI values.",
+    "Tamil": "⚠️ துல்லியமான குளுக்கோஸ் மற்றும் BMI மதிப்புகளை உள்ளிடவும்."
+  },
+  "Hypertension Risk Probability": {
+    "English": "Hypertension Risk Probability",
+    "Tamil": "உயர் இரத்த அழுத்தத்தின் சாத்தியமான சதவிகிதம்"
+  },
+  "Feature importance not available for this model.": {
+    "English": "Feature importance not available for this model.",
+    "Tamil": "இந்த மாதிரிக்கு அம்ச முக்கியத்துவம் கிடைக்கவில்லை."
+  },
+  "🌡️ Fever Detection & Recommendations": {
+    "English": "🌡️ Fever Detection & Recommendations",
+    "Tamil": "🌡️ காய்ச்சல் கண்டறிதலும் பரிந்துரைகளும்"
+  },
+  "⚠️ **MEDICAL DISCLAIMER**: This tool provides general guidance only and is not a substitute for professional medical advice. Always consult a healthcare provider for medical concerns.": {
+    "English": "⚠️ **MEDICAL DISCLAIMER**: This tool provides general guidance only and is not a substitute for professional medical advice. Always consult a healthcare provider for medical concerns.",
+    "Tamil": "⚠️ **மருத்துவ மறுப்பு**: இந்த கருவி பொதுவான வழிகாட்டுதலை மட்டும் வழங்குகிறது மற்றும் இது தொழில்முறை மருத்துவ ஆலோசனைக்கு மாற்றாக இல்லை. எப்போதும் மருத்துவ சிக்கல்களுக்கு சுகாதார சேவை வழங்குநரை அணுகவும்."
+  },
+  "Select Temperature Unit:": {
+    "English": "Select Temperature Unit:",
+    "Tamil": "வெப்பநிலை அலகை தேர்ந்தெடுக்கவும்:"
+  },
+  "❌ File not found at": {
+    "English": "❌ File not found at",
+    "Tamil": "❌ கோப்பு கிடைக்கவில்லை:"
+  },
+  "❌ Error loading data:": {
+    "English": "❌ Error loading data:",
+    "Tamil": "❌ தரவுகளை ஏற்றும் போது பிழை:"
+  },
+  "🌡️ Enter your Temperature (°C):": {
+    "English": "🌡️ Enter your Temperature (°C):",
+    "Tamil": "🌡️ உங்கள் வெப்பநிலையை உள்ளிடவும் (°C):"
+  },
+  "🌡️ Enter your Temperature (°F):": {
+    "English": "🌡️ Enter your Temperature (°F):",
+    "Tamil": "🌡️ உங்கள் வெப்பநிலையை உள்ளிடவும் (°F):"
+  },
+  "🎂 Age": {
+    "English": "🎂 Age",
+    "Tamil": "🎂 வயது"
+  },
+  "🩺 Do you have chronic conditions?": {
+    "English": "🩺 Do you have chronic conditions?",
+    "Tamil": "🩺 நீண்டநாள் நோய்கள் உள்ளதா?"
+  },
+  "⚖️ BMI": {
+    "English": "⚖️ BMI",
+    "Tamil": "⚖️ உடல் நிறை குறியீடு (BMI)"
+  },
+  "🤰 Are you pregnant?": {
+    "English": "🤰 Are you pregnant?",
+    "Tamil": "🤰 நீங்கள் கர்ப்பிணியா?"
+  },
+  "ℹ️ Normal temperature range for your age:": {
+    "English": "ℹ️ Normal temperature range for your age:",
+    "Tamil": "ℹ️ உங்கள் வயதுக்கான சாதாரண வெப்பநிலை வரம்பு:"
+  },
+  "🔴 Fever Severity:": {
+    "English": "🔴 Fever Severity:",
+    "Tamil": "🔴 காய்ச்சலின் கடுமை:"
+  },
+  "🟠 Fever Severity:": {
+    "English": "🟠 Fever Severity:",
+    "Tamil": "🟠 காய்ச்சலின் கடுமை:"
+  },
+  "🟡 Fever Severity:": {
+    "English": "🟡 Fever Severity:",
+    "Tamil": "🟡 காய்ச்சலின் கடுமை:"
+  },
+  "🔵 Status:": {
+    "English": "🔵 Status:",
+    "Tamil": "🔵 நிலைமை:"
+  },
+  "🚨 **EMERGENCY:** High fever at your age group needs urgent attention.": {
+    "English": "🚨 **EMERGENCY:** High fever at your age group needs urgent attention.",
+    "Tamil": "🚨 **அவசரம்:** உங்கள் வயது பிரிவில் அதிக வெப்பநிலை உடனடி கவனிக்க வேண்டியது."
+  },
+  "🚼 **Infant Alert:** Fevers in toddlers require pediatric consultation.": {
+    "English": "🚼 **Infant Alert:** Fevers in toddlers require pediatric consultation.",
+    "Tamil": "🚼 **குழந்தை எச்சரிக்கை:** சிறு குழந்தைகளில் காய்ச்சல் குழந்தை மருத்துவ ஆலோசனை தேவை."
+  },
+  "🤰 **Pregnancy Alert:** Contact your obstetrician immediately.": {
+    "English": "🤰 **Pregnancy Alert:** Contact your obstetrician immediately.",
+    "Tamil": "🤰 **கர்ப்ப கால எச்சரிக்கை:** உடனடியாக உங்கள் மகப்பேறு மருத்துவரை தொடர்புகொள்ளவும்."
+  },
+  "⚠️ **Chronic Condition Alert:** Please consult your doctor.": {
+    "English": "⚠️ **Chronic Condition Alert:** Please consult your doctor.",
+    "Tamil": "⚠️ **நீண்டநாள் நோய் எச்சரிக்கை:** தயவுசெய்து உங்கள் மருத்துவரை அணுகவும்."
+  },
+  "💊 Recommended Medication:": {
+    "English": "💊 Recommended Medication:",
+    "Tamil": "💊 பரிந்துரைக்கப்பட்ட மருந்து:"
+  },
+  "📋 Dosage:": {
+    "English": "📋 Dosage:",
+    "Tamil": "📋 மருந்தளவு:"
+  },
+  "⚠️ Always follow label instructions. Avoid self-medication during pregnancy or chronic illness.": {
+    "English": "⚠️ Always follow label instructions. Avoid self-medication during pregnancy or chronic illness.",
+    "Tamil": "⚠️ எப்போதும் லேபிள் வழிமுறைகளை பின்பற்றவும். கர்ப்பம் அல்லது நீண்டநாள் நோய்களின் போது சுயமருந்துகளை தவிர்க்கவும்."
+  },
+  "🌡️ Fever Care Tips": {
+    "English": "🌡️ Fever Care Tips",
+    "Tamil": "🌡️ காய்ச்சல் பராமரிப்பு குறிப்புகள்"
+  },
+  "🚨 Seek Emergency Care If:": {
+    "English": "🚨 Seek Emergency Care If:",
+    "Tamil": "🚨 கீழ்க்காணும் சூழ்நிலைகளில் அவசர மருத்துவ உதவியை நாடவும்:"
+  },
+  "✅ No fever detected. You're good!": {
+    "English": "✅ No fever detected. You're good!",
+    "Tamil": "✅ காய்ச்சல் இல்லை. நீங்கள் நலம்!"
+  },
+  "🧊 Temperature is unusually low. May be due to cold exposure or health conditions.\nSeek evaluation if symptoms persist.": {
+    "English": "🧊 Temperature is unusually low. May be due to cold exposure or health conditions.\nSeek evaluation if symptoms persist.",
+    "Tamil": "🧊 வெப்பநிலை அசாதாரணமாக குறைவாக உள்ளது. இது குளிர்ச்சி அல்லது சில உடல்நிலை காரணமாக இருக்கலாம்.\nஅறிகுறிகள் தொடர்ந்தால் மதிப்பீடு செய்யவும்."
+  },
+  "For more information, visit [CDC Fever Guidelines](https://www.cdc.gov/fever-guidelines).": {
+    "English": "For more information, visit [CDC Fever Guidelines](https://www.cdc.gov/fever-guidelines).",
+    "Tamil": "மேலும் தகவல்களுக்கு, [CDC காய்ச்சல் வழிகாட்டிகள்](https://www.cdc.gov/fever-guidelines) பார்க்கவும்."
+  },
+  "An error occurred:": {
+    "English": "An error occurred:",
+    "Tamil": "ஒரு பிழை ஏற்பட்டது:"
+  },
+  "Please refresh the page and try again.": {
+    "English": "Please refresh the page and try again.",
+    "Tamil": "தயவுசெய்து பக்கத்தை புதுப்பித்து மீண்டும் முயற்சிக்கவும்."
+  },
+  "You can manage your data or revoke consent at any time via your account settings.": {
+    "English": "You can manage your data or revoke consent at any time via your account settings.",
+    "Tamil": "உங்கள் கணக்கு அமைப்புகள் மூலம் நீங்கள் எந்த நேரத்திலும் உங்கள் தரவுகளை நிர்வகிக்கலாம் அல்லது ஒப்புதலை வாபஸ் பெறலாம்."
+  },
+  "Last updated:": {
+    "English": "Last updated:",
+    "Tamil": "இறுதியாக புதுப்பிக்கப்பட்டது:"
+  },
+  "Forgot Password?": {
+    "English": "Forgot Password?",
+    "Tamil": "கடவுச்சொல்லை மறந்துவிட்டேன்"
+  },
+  "⚠️ Please enter your email above to reset password.": {
+    "English": "⚠️ Please enter your email above to reset password.",
+    "Tamil": "⚠️ கடவுச்சொல்லை மீட்டமைக்க மேலே உங்கள் மின்னஞ்சலை உள்ளிடவும்."
+  },
+  "📍 Hospital Suggestions Near You": {
+    "English": "📍 Hospital Suggestions Near You",
+    "Tamil": "📍 உங்களின் அருகிலுள்ள மருத்துவமனைகளுக்கான பரிந்துரைகள்"
+  },
+  "Enter your full address to find hospitals nearby": {
+    "English": "Enter your full address to find hospitals nearby",
+    "Tamil": "அருகிலுள்ள மருத்துவமனைகளை காண உங்கள் முழு முகவரியை உள்ளிடவும்"
+  },
+  "e.g. 123 Main St, New York, NY 10001": {
+    "English": "e.g. 123 Main St, New York, NY 10001",
+    "Tamil": "எ.கா. 123 மெயின் சாலை, சென்னை, தமிழ்நாடு 600001"
+  },
+  "🔍 Find Nearby Hospitals": {
+    "English": "🔍 Find Nearby Hospitals",
+    "Tamil": "🔍 அருகிலுள்ள மருத்துவமனைகளை காணவும்"
+  },
+  "Search radius (km)": {
+    "English": "Search radius (km)",
+    "Tamil": "தேடல் வீச்சு (கிமீ)"
+  },
+  "Validating your address...": {
+    "English": "Validating your address...",
+    "Tamil": "உங்கள் முகவரி சரிபார்க்கப்படுகிறது..."
+  },
+  "❌ Couldn't find this address. Please check your input and try again.": {
+    "English": "❌ Couldn't find this address. Please check your input and try again.",
+    "Tamil": "❌ இந்த முகவரியை கண்டறிய முடியவில்லை. தயவுசெய்து சரிபார்த்து மீண்டும் முயற்சிக்கவும்."
+  },
+  "📌 Did you mean:": {
+    "English": "📌 Did you mean:",
+    "Tamil": "📌 நீங்கள் கூறுவது?"
+  },
+  "Select your exact address:": {
+    "English": "Select your exact address:",
+    "Tamil": "உங்கள் சரியான முகவரியை தேர்வு செய்யவும்:"
+  },
+  "Locating hospitals near you...": {
+    "English": "Locating hospitals near you...",
+    "Tamil": "உங்களுக்கு அருகிலுள்ள மருத்துவமனைகள் கண்டறியப்படுகின்றன..."
+  },
+  "📌 Location detected: ": {
+    "English": "📌 Location detected:",
+    "Tamil": "📌 இருப்பிடம் கண்டறியப்பட்டது:"
+  },
+  "No hospitals found within the specified radius. Try increasing the search radius.": {
+    "English": "No hospitals found within the specified radius. Try increasing the search radius.",
+    "Tamil": "குறிப்பிட்ட வீச்சுக்குள் மருத்துவமனைகள் இல்லை. தேடல் வீச்சை அதிகரிக்கவும்."
+  },
+  "❌ Couldn't determine coordinates for this address. Please try another address.": {
+    "English": "❌ Couldn't determine coordinates for this address. Please try another address.",
+    "Tamil": "❌ இந்த முகவரிக்கு அடையாளப்படுத்த முடியவில்லை. மற்றொரு முகவரியை முயற்சிக்கவும்."
+  },
+  "Address:": {
+    "English": "Address:",
+    "Tamil": "முகவரி:"
+  },
+  "Phone:": {
+    "English": "Phone:",
+    "Tamil": "தொலைபேசி:"
+  },
+  "Emergency:": {
+    "English": "Emergency:",
+    "Tamil": "அவசரம்:"
+  },
+  "[📍 Open in Maps]": {
+    "English": "[📍 Open in Maps]",
+    "Tamil": "[📍 மேப்பில் திறக்கவும்]"
+  },
+  "[🗺️ View in OpenStreetMap]": {
+    "English": "[🗺️ View in OpenStreetMap]",
+    "Tamil": "[🗺️ ஓபன்ஸ்ட்ரீட்மாப்பில் காண்க]"
+  },
+  "[🚗 Get Directions]": {
+    "English": "[🚗 Get Directions]",
+    "Tamil": "[🚗 வழிமுறைகளைப் பெறவும்]"
+  },
+  "❌ Cannot generate report: Please enter the patient's name first.": {
+    "English": "❌ Cannot generate report: Please enter the patient's name first.",
+    "Tamil": "❌ அறிக்கையை உருவாக்க முடியவில்லை: முதலில் நோயாளியின் பெயரை உள்ளிடவும்."
+  },
+  "📖 Description": {
+    "English": "📖 Description",
+    "Tamil": "📖 விளக்கம்"
+  },
+  "🛡️ Precautions": {
+    "English": "🛡️ Precautions",
+    "Tamil": "🛡️ முன்னெச்சரிக்கைகள்"
+  },
+  "Hypertension Risk Category": {
+    "English": "Hypertension Risk Category",
+    "Tamil": "உயர் இரத்த அழுத்த ஆபத்து வகை"
+  },
+  "High Risk": {
+    "English": "High Risk",
+    "Tamil": "அதிக ஆபத்து"
+  },
+  "Moderate Risk": {
+    "English": "Moderate Risk",
+    "Tamil": "இடைநிலை ஆபத்து"
+  },
+  "Low Risk": {
+    "English": "Low Risk",
+    "Tamil": "குறைந்த ஆபத்து"
+  },
+  "risk_advice_high": {
+    "English": "Seek immediate medical attention.",
+    "Tamil": "உடனடி மருத்துவ உதவியைத் தேடவும்."
+  },
+  "risk_advice_moderate": {
+    "English": "Adopt healthy habits and monitor regularly.",
+    "Tamil": "ஆரோக்கிய பழக்கவழக்கங்களை பின்பற்றவும், முறையாக கண்காணிக்கவும்."
+  },
+  "risk_advice_low": {
+    "English": "Maintain current healthy lifestyle.",
+    "Tamil": "தற்போதைய ஆரோக்கிய வாழ்க்கைமுறையை பேணி கொள்ளவும்."
+  },
+  "Hypertension Crisis": {
+    "English": "Hypertension Crisis",
+    "Tamil": "உயர் இரத்த அழுத்த ஆபத்துக் கட்டணம்"
+  },
+  "Hypertension Crisis Advice": {
+    "English": "Seek emergency care immediately.",
+    "Tamil": "தடையனாக உடனடி அவசர மருத்துவ உதவியைப் பெறவும்."
+  },
+  "Stage 2 Hypertension": {
+    "English": "Stage 2 Hypertension",
+    "Tamil": "நிலை 2 உயர் இரத்த அழுத்தம்"
+  },
+  "Stage 2 Hypertension Advice": {
+    "English": "Consult your doctor. Lifestyle changes and medication likely needed.",
+    "Tamil": "உங்கள் மருத்துவரை அணுகவும். வாழ்க்கை முறை மாற்றங்கள் மற்றும் மருந்து தேவையாக இருக்கலாம்."
+  },
+  "Stage 1 Hypertension": {
+    "English": "Stage 1 Hypertension",
+    "Tamil": "நிலை 1 உயர் இரத்த அழுத்தம்"
+  },
+  "Stage 1 Hypertension Advice": {
+    "English": "Monitor regularly. Improve diet, reduce stress, consult doctor.",
+    "Tamil": "முறையாக கண்காணிக்கவும். உணவை மேம்படுத்தவும், மனஅழுத்தத்தை குறைக்கவும், மருத்துவரை அணுகவும்."
+  },
+  "Elevated": {
+    "English": "Elevated",
+    "Tamil": "உயர்ந்த நிலை"
+  },
+  "Elevated Advice": {
+    "English": "Be cautious. Reduce salt, exercise regularly.",
+    "Tamil": "கவனமாக இருங்கள். உப்பைக் குறைக்கவும், தவறாமல் உடற்பயிற்சி செய்யவும்."
+  },
+  "Healthy": {
+    "English": "Healthy",
+    "Tamil": "ஆரோக்கியம்"
+  },
+  "Healthy Advice": {
+    "English": "Keep up the healthy habits!",
+    "Tamil": "ஆரோக்கியமான பழக்கங்களை தொடருங்கள்!"
+  },
+  "Normal (Older Adult)": {
+    "English": "Normal (Older Adult)",
+    "Tamil": "நிலையானது (வயதானவர்)"
+  },
+  "Normal (Older Adult) Advice": {
+    "English": "Good control for your age, continue maintaining healthy habits.",
+    "Tamil": "உங்கள் வயதுக்கான நல்ல கட்டுப்பாடு, ஆரோக்கிய பழக்கங்களை தொடருங்கள்."
+  },
+  "Age-related Hypertension Risk": {
+    "English": "Age-related Hypertension Risk",
+    "Tamil": "வயதுடன் தொடர்புடைய உயர் இரத்த அழுத்த அபாயம்"
+  },
+  "Age-related Hypertension Risk Advice": {
+    "English": "Monitor blood pressure regularly, consult a healthcare provider.",
+    "Tamil": "இரத்த அழுத்தத்தை முறையாக கண்காணிக்கவும், மருத்துவ நிபுணரை அணுகவும்."
+  },
+  "Hypertension Risk with Heart Disease": {
+    "English": "Hypertension Risk with Heart Disease",
+    "Tamil": "இதய நோயுடன் கூடிய உயர் இரத்த அழுத்த அபாயம்"
+  },
+  "Hypertension Risk with Heart Disease Advice": {
+    "English": "High risk due to heart disease history. Consult your doctor for tailored advice.",
+    "Tamil": "இதய நோய் வரலாறு காரணமாக அதிக அபாயம். தனிப்பயன் ஆலோசனைக்கு உங்கள் மருத்துவரை அணுகவும்."
+  },
+  "Hypertension Risk due to Smoking": {
+    "English": "Hypertension Risk due to Smoking",
+    "Tamil": "புகையிலை காரணமாக உயர் இரத்த அழுத்த அபாயம்"
+  },
+  "Hypertension Risk due to Smoking Advice": {
+    "English": "Smoking increases the risk of high blood pressure. Consult your healthcare provider.",
+    "Tamil": "புகையிலை உயர் இரத்த அழுத்த அபாயத்தை அதிகரிக்கிறது. உங்கள் மருத்துவ நிபுணரை அணுகவும்."
+  },
+  "Hypertension Risk for Young Women": {
+    "English": "Hypertension Risk for Young Women",
+    "Tamil": "இளம் பெண்களுக்கு உயர் இரத்த அழுத்த அபாயம்"
+  },
+  "Hypertension Risk for Young Women Advice": {
+    "English": "Monitor and reduce lifestyle risk factors, and discuss with your doctor.",
+    "Tamil": "வாழ்க்கை முறை அபாயங்களை கண்காணித்து குறைக்கவும், உங்கள் மருத்துவருடன் ஆலோசிக்கவும்."
+  },
+  "Hypertension Risk with Diabetes and Obesity": {
+    "English": "Hypertension Risk with Diabetes and Obesity",
+    "Tamil": "சக்கரை நோய் மற்றும் உடல் எடை அதிகரிப்புடன் கூடிய உயர் இரத்த அழுத்த அபாயம்"
+  },
+  "Hypertension Risk with Diabetes and Obesity Advice": {
+    "English": "Monitor regularly and follow your healthcare provider's advice.",
+    "Tamil": "முறையாக கண்காணித்து, உங்கள் மருத்துவ நிபுணரின் ஆலோசனையை பின்பற்றவும்."
+  },
+  "Unclassified": {
+    "English": "Unclassified",
+    "Tamil": "வரிசைப்படுத்தப்படாதது"
+  },
+  "Unclassified Advice": {
+    "English": "Double-check readings or consult provider.",
+    "Tamil": "மீண்டும் மதிப்பீடு செய்யவும் அல்லது மருத்துவ நிபுணரை அணுகவும்."
+  },
+  "🩺 Diabetes Prediction Test": {
+    "English": "🩺 Diabetes Prediction Test",
+    "Tamil": "🩺 நீரிழிவு நோய் முன்னறிவிப்பு சோதனை"
+  },
+  "Number of Pregnancies": {
+    "English": "Number of Pregnancies",
+    "Tamil": "கருப்பை அணுகிய முறை (பிரசவங்கள்) எண்ணிக்கை"
+  },
+  "Total number of pregnancies (0 if never pregnant)": {
+    "English": "Total number of pregnancies (0 if never pregnant)",
+    "Tamil": "மொத்த கர்ப்பங்கள் (கர்ப்பமாக இல்லையெனில் 0)"
+  },
+  "Glucose Level": {
+    "English": "Glucose Level",
+    "Tamil": "கிளுக்கோஸ் அளவு"
+  },
+  "Plasma glucose concentration (mg/dL). Normal is 70-100 mg/dL": {
+    "English": "Plasma glucose concentration (mg/dL). Normal is 70-100 mg/dL",
+    "Tamil": "பிளாஸ்மா கிளுக்கோஸ்濃度 (mg/dL). சாதாரணம் 70-100 mg/dL"
+  },
+  "Blood Pressure": {
+    "English": "Blood Pressure",
+    "Tamil": "இரத்த அழுத்தம்"
+  },
+  "Diastolic blood pressure (mm Hg). Normal is below 120/80": {
+    "English": "Diastolic blood pressure (mm Hg). Normal is below 120/80",
+    "Tamil": "தளர்வுக்கால இரத்த அழுத்தம் (mm Hg). சாதாரணம் 120/80 க்குக் கீழே"
+  },
+  "Insulin Level": {
+    "English": "Insulin Level",
+    "Tamil": "இன்சுலின் அளவு"
+  },
+  "2-Hour serum insulin (mu U/ml). Normal is 16-166 mu U/ml": {
+    "English": "2-Hour serum insulin (mu U/ml). Normal is 16-166 mu U/ml",
+    "Tamil": "2 மணி நேர சீரம் இன்சுலின் (mu U/ml). சாதாரணம் 16-166 mu U/ml"
+  },
+  "Skin Thickness": {
+    "English": "Skin Thickness",
+    "Tamil": "தோல் தடிமன்"
+  },
+  "Triceps skin fold thickness (mm)": {
+    "English": "Triceps skin fold thickness (mm)",
+    "Tamil": "ட்ரைசெப்ஸ் தோல் மடிப்பு தடிமன் (mm)"
+  },
+  "Body mass index. Healthy range is 18.5-24.9": {
+    "English": "Body mass index. Healthy range is 18.5-24.9",
+    "Tamil": "உடல் நிறை குறியீடு. ஆரோக்கிய வரம்பு 18.5-24.9"
+  },
+  "Diabetes Pedigree Function": {
+    "English": "Diabetes Pedigree Function",
+    "Tamil": "நீரிழிவு மரபணு செயல்பாடு"
+  },
+  "Diabetes genetic likelihood. Higher values indicate greater risk": {
+    "English": "Diabetes genetic likelihood. Higher values indicate greater risk",
+    "Tamil": "நீரிழிவு மரபணுக் காரணிகள். அதிக மதிப்புகள் அதிக அபாயத்தைக் குறிக்கின்றன"
+  },
+  "Age of the patient in years": {
+    "English": "Age of the patient in years",
+    "Tamil": "நோயாளியின் வயது (ஆண்டுகளில்)"
+  },
+  "Diabetes Prediction Test": {
+    "English": "Diabetes Prediction Test",
+    "Tamil": "நீரிழிவு予னறி பரிசோதனை"
+  },
+  "🧠 Analyzing your data...": {
+    "English": "🧠 Analyzing your data...",
+    "Tamil": "🧠 உங்கள் தரவுகளை பகுப்பாய்வு செய்து கொண்டிருக்கிறது..."
+  },
+  "⚠️ Diabetes Risk Detected": {
+    "English": "⚠️ Diabetes Risk Detected",
+    "Tamil": "⚠️ நீரிழிவு அபாயம் கண்டறியப்பட்டது"
+  },
+  "### Risk Factors Identified:": {
+    "English": "### Risk Factors Identified:",
+    "Tamil": "### கண்டறியப்பட்ட அபாய காரணிகள்:"
+  },
+  "**Risk Score:**": {
+    "English": "**Risk Score:**",
+    "Tamil": "**அபாய மதிப்பீடு:**"
+  },
+  "✅ Low Diabetes Risk": {
+    "English": "✅ Low Diabetes Risk",
+    "Tamil": "✅ குறைந்த நீரிழிவு அபாயம்"
+  },
+  "🍽 Personalized Meal Plan": {
+    "English": "🍽 Personalized Meal Plan",
+    "Tamil": "🍽 தனிப்பயன் உணவுத்திட்டம்"
+  },
+  "❤️ Heart Disease Prediction": {
+    "English": "❤️ Heart Disease Prediction",
+    "Tamil": "❤️ இதய நோய் கணிப்பு"
+  },
+  "Heart Disease Prediction": {
+    "English": "Heart Disease Prediction",
+    "Tamil": "இதய நோய் கணிப்பு"
+  },
+  "Nutrition Counseling": {
+    "English": "Nutrition Counseling",
+    "Tamil": "உணவியல் ஆலோசனை"
+  },
+  "🩺 Enter your health details below:": {
+    "English": "🩺 Enter your health details below:",
+    "Tamil": "🩺 உங்கள் உடல்நிலை விவரங்களை உள்ளிடுங்கள்:"
+  },
+  "Weight (kg)": {
+    "English": "Weight (kg)",
+    "Tamil": "எடை (கிலோ)"
+  },
+  "Height (cm)": {
+    "English": "Height (cm)",
+    "Tamil": "உயரம் (செ.மீ)"
+  },
+  "Systolic Blood Pressure (ap_hi)": {
+    "English": "Systolic Blood Pressure (ap_hi)",
+    "Tamil": "அதிகபடிவ இரத்த அழுத்தம் (ap_hi)"
+  },
+  "Diastolic Blood Pressure (ap_lo)": {
+    "English": "Diastolic Blood Pressure (ap_lo)",
+    "Tamil": "தளர்வு இரத்த அழுத்தம் (ap_lo)"
+  },
+  "Cholesterol Level": {
+    "English": "Cholesterol Level",
+    "Tamil": "கொழுப்பு அளவு"
+  },
+  "Do you Smoke?": {
+    "English": "Do you Smoke?",
+    "Tamil": "நீங்கள் புகைபிடிக்கிறீர்களா?"
+  },
+  "Do you Drink Alcohol?": {
+    "English": "Do you Drink Alcohol?",
+    "Tamil": "நீங்கள் மதுபானம் அருந்துகிறீர்களா?"
+  },
+  "Do you Exercise Regularly?": {
+    "English": "Do you Exercise Regularly?",
+    "Tamil": "நீங்கள் தவறாமல் உடற்பயிற்சி செய்கிறீர்களா?"
+  },
+  "🧠 Predicting based on your health data...": {
+    "English": "🧠 Predicting based on your health data...",
+    "Tamil": "🧠 உங்கள் உடல்நிலை தரவின்பேரில் கணிக்கப்படுகிறது..."
+  },
+  "✅ No Cardiovascular Disease Detected": {
+    "English": "✅ No Cardiovascular Disease Detected",
+    "Tamil": "✅ இதய நோய் கண்டறியப்படவில்லை"
+  },
+  "❌ High Risk of Cardiovascular Disease": {
+    "English": "❌ High Risk of Cardiovascular Disease",
+    "Tamil": "❌ இதய நோய்க்கான அதிக அபாயம்"
+  },
+  "⚠️ Please consult a Cardiologist immediately.": {
+    "English": "⚠️ Please consult a Cardiologist immediately.",
+    "Tamil": "⚠️ தயவுசெய்து உடனடியாக ஒரு இதய நிபுணரை அணுகவும்."
+  },
+  "Heart-Healthy Nutrition Counseling": {
+    "English": "Heart-Healthy Nutrition Counseling",
+    "Tamil": "இதய நல உணவுத்திட்ட ஆலோசனை"
+  },
+  "Please run a heart disease prediction first in the 'Heart Disease Prediction' tab.": {
+    "English": "Please run a heart disease prediction first in the 'Heart Disease Prediction' tab.",
+    "Tamil": "'இதய நோய் கணிப்பு' தாவலில் முதலில் கணிப்பை இயக்கவும்."
+  },
+  "Additional Information for Personalized Nutrition": {
+    "English": "Additional Information for Personalized Nutrition",
+    "Tamil": "தனிப்பயன் உணவுக்கான கூடுதல் தகவல்"
+  },
+  "Physical Activity Level": {
+    "English": "Physical Activity Level",
+    "Tamil": "உடல் செயல்பாடு நிலை"
+  },
+  "Generate Meal Plan": {
+    "English": "Generate Meal Plan",
+    "Tamil": "உணவுத்திட்டம் உருவாக்கவும்"
+  },
+  "Heart Health Nutrition Tips": {
+    "English": "Heart Health Nutrition Tips",
+    "Tamil": "இதய நலத்திற்கு உணவியல் குறிப்பு"
+  },
+  "Disclaimer: This meal plan is generated based on general guidelines and your input data. Please consult with a registered dietitian or healthcare provider for personalized nutritional advice tailored to your specific health needs.": {
+    "English": "Disclaimer: This meal plan is generated based on general guidelines and your input data. Please consult with a registered dietitian or healthcare provider for personalized nutritional advice tailored to your specific health needs.",
+    "Tamil": "கவனிக்க: இந்த உணவுத்திட்டம் பொதுவான வழிகாட்டுதல்களையும் உங்கள் உள்ளீட்டையும் அடிப்படையாகக் கொண்டு உருவாக்கப்பட்டுள்ளது. உங்கள் உடல்நிலை தேவைகளுக்கு ஏற்ப தனிப்பயன் ஆலோசனைகளுக்கு பதிவு செய்யப்பட்ட டயட்டிஷியன் அல்லது மருத்துவ நிபுணரை அணுகவும்."
+  },
+  "Lung Cancer Detection": {
+    "English": "Lung Cancer Detection",
+    "Tamil": "நுரையீரல் புற்றுநோய் கண்டறிதல்"
+  },
+  "📤 Upload a Lung CT Image": {
+    "English": "📤 Upload a Lung CT Image",
+    "Tamil": "📤 நுரையீரல் CT படத்தை பதிவேற்றவும்"
+  },
+  "🖼️ Uploaded Lung Image": {
+    "English": "🖼️ Uploaded Lung Image",
+    "Tamil": "🖼️ பதிவேற்றப்பட்ட நுரையீரல் படம்"
+  },
+  "🔬 Analyzing Image... Please wait.": {
+    "English": "🔬 Analyzing Image... Please wait.",
+    "Tamil": "🔬 படத்தை பகுப்பாய்வு செய்கிறது... தயவுசெய்து காத்திருக்கவும்."
+  },
+  "✅ Lungs are Healthy!": {
+    "English": "✅ Lungs are Healthy!",
+    "Tamil": "✅ நுரையீரல் ஆரோக்கியமாக உள்ளன!"
+  },
+  "❌ Lung Cancer Detected!": {
+    "English": "❌ Lung Cancer Detected!",
+    "Tamil": "❌ நுரையீரல் புற்றுநோய் கண்டறியப்பட்டது!"
+  },
+  "⚠️ Consult an Oncologist Immediately": {
+    "English": "⚠️ Consult an Oncologist Immediately",
+    "Tamil": "⚠️ உடனடியாக புற்றுநோய் நிபுணரை அணுகவும்"
+  },
+  "Chronic Kidney Disease Detection": {
+    "English": "Chronic Kidney Disease Detection",
+    "Tamil": "நீடித்த சிறுநீரக நோய் கண்டறிதல்"
+  },
+  "With Parameters": {
+    "English": "With Parameters",
+    "Tamil": "அளவுருக்களுடன்"
+  },
+  "With MRI": {
+    "English": "With MRI",
+    "Tamil": "எம்ஆர்ஐயுடன்"
+  },
+  "Specific Gravity": {
+    "English": "Specific Gravity",
+    "Tamil": "சிறப்பான கதிர்ச்சி"
+  },
+  "Albumin (g/dL)": {
+    "English": "Albumin (g/dL)",
+    "Tamil": "அல்புமின் (g/dL)"
+  },
+  "Sugar": {
+    "English": "Sugar",
+    "Tamil": "சர்க்கரை"
+  },
+  "Blood Glucose Random (mg/dL)": {
+    "English": "Blood Glucose Random (mg/dL)",
+    "Tamil": "சீரற்ற இரத்த சர்க்கரை (mg/dL)"
+  },
+  "Blood Urea (mg/dL)": {
+    "English": "Blood Urea (mg/dL)",
+    "Tamil": "இரத்த யூரியா (mg/dL)"
+  },
+  "Serum Creatinine (mg/dL)": {
+    "English": "Serum Creatinine (mg/dL)",
+    "Tamil": "சீரம் கிரெய்டினின் (mg/dL)"
+  },
+  "Sodium (mEq/L)": {
+    "English": "Sodium (mEq/L)",
+    "Tamil": "சோடியம் (mEq/L)"
+  },
+  "Potassium (mEq/L)": {
+    "English": "Potassium (mEq/L)",
+    "Tamil": "பொட்டாசியம் (mEq/L)"
+  },
+  "Hemoglobin (g/dL)": {
+    "English": "Hemoglobin (g/dL)",
+    "Tamil": "ஹீமோகுளோபின் (g/dL)"
+  },
+  "Packed Cell Volume (%)": {
+    "English": "Packed Cell Volume (%)",
+    "Tamil": "திட செல்கள் அளவு (%)"
+  },
+  "🧫 Blood Cell Counts": {
+    "English": "🧫 Blood Cell Counts",
+    "Tamil": "🧫 இரத்தச் செல்களின் எண்ணிக்கை"
+  },
+  "WBC Count (cells/cumm)": {
+    "English": "WBC Count (cells/cumm)",
+    "Tamil": "வெள்ளை இரத்தச் செல்கள் எண்ணிக்கை (cells/cumm)"
+  },
+  "RBC Count (millions/cumm)": {
+    "English": "RBC Count (millions/cumm)",
+    "Tamil": "சிவப்பு இரத்தச் செல்கள் எண்ணிக்கை (மில்லியன்/cumm)"
+  },
+  "⚕️ Clinical Symptoms & Conditions": {
+    "English": "⚕️ Clinical Symptoms & Conditions",
+    "Tamil": "⚕️ மருத்துவ அறிகுறிகள் மற்றும் நிலைகள்"
+  },
+  "Red Blood Cells": {
+    "English": "Red Blood Cells",
+    "Tamil": "சிவப்பு இரத்தக் கணங்கள்"
+  },
+  "Pus Cell": {
+    "English": "Pus Cell",
+    "Tamil": "பூச்சணி செல்"
+  },
+  "Pus Cell Clumps": {
+    "English": "Pus Cell Clumps",
+    "Tamil": "பூச்சணி செல் குழாய்கள்"
+  },
+  "Bacteria": {
+    "English": "Bacteria",
+    "Tamil": "பாக்டீரியா"
+  },
+  "Appetite": {
+    "English": "Appetite",
+    "Tamil": "பசிப்பு"
+  },
+  "Hypertension": {
+    "English": "Hypertension",
+    "Tamil": "உயர் இரத்த அழுத்தம்"
+  },
+  "Diabetes Mellitus": {
+    "English": "Diabetes Mellitus",
+    "Tamil": "நீரிழிவு நோய்"
+  },
+  "Coronary Artery Disease": {
+    "English": "Coronary Artery Disease",
+    "Tamil": "மன அழுத்தக் குழாய் நோய்"
+  },
+  "Pedal Edema": {
+    "English": "Pedal Edema",
+    "Tamil": "கால் வீக்கம்"
+  },
+  "Anemia": {
+    "English": "Anemia",
+    "Tamil": "இரத்த சோகை"
+  },
+  "⚠️ The patient is likely to have **Chronic Kidney Disease**.": {
+    "English": "⚠️ The patient is likely to have **Chronic Kidney Disease**.",
+    "Tamil": "⚠️ நோயாளிக்கு **நீடித்த சிறுநீரக நோய்** இருக்கக்கூடும்."
+  },
+  "✅ The patient is **unlikely to have Chronic Kidney Disease**.": {
+    "English": "✅ The patient is **unlikely to have Chronic Kidney Disease**.",
+    "Tamil": "✅ நோயாளிக்கு **நீடித்த சிறுநீரக நோய் இருக்க வாய்ப்பு குறைவாக உள்ளது**."
+  },
+  "🔎 Show model details": {
+    "English": "🔎 Show model details",
+    "Tamil": "🔎 மாதிரி விவரங்களை காண்பி"
+  },
+  "Model used: **Support Vector Machine (SVM)**": {
+    "English": "Model used: **Support Vector Machine (SVM)**",
+    "Tamil": "பயன்படுத்தப்பட்ட மாதிரி: **சப்போர்ட் வெக்டர் மெஷின் (SVM)**"
+  },
+  "📊 Kidney Disease Risk Factors Heatmap": {
+    "English": "📊 Kidney Disease Risk Factors Heatmap",
+    "Tamil": "📊 சிறுநீரக நோய்க்கான அபாயக் காரணிகள் வெப்பப்படம்"
+  },
+  "Show Heatmap": {
+    "English": "Show Heatmap",
+    "Tamil": "வெப்பப்படத்தை காண்பி"
+  },
+  "📤 Upload a Kidney Ultrasound Image": {
+    "English": "📤 Upload a Kidney Ultrasound Image",
+    "Tamil": "📤 சிறுநீரக அல்ட்ராசவுண்ட் படத்தை பதிவேற்றவும்"
+  },
+  "🖼️ Uploaded Kidney Image": {
+    "English": "🖼️ Uploaded Kidney Image",
+    "Tamil": "🖼️ பதிவேற்றப்பட்ட சிறுநீரக படம்"
+  },
+  "✅ Kidneys are Healthy!": {
+    "English": "✅ Kidneys are Healthy!",
+    "Tamil": "✅ சிறுநீரகங்கள் ஆரோக்கியமாக உள்ளன!"
+  },
+  "❌ Kidney Disease Detected!": {
+    "English": "❌ Kidney Disease Detected!",
+    "Tamil": "❌ சிறுநீரக நோய் கண்டறியப்பட்டது!"
+  },
+  "⚠️ Consult a Nephrologist Immediately": {
+    "English": "⚠️ Consult a Nephrologist Immediately",
+    "Tamil": "⚠️ உடனடியாக ஒரு சிறுநீரக நிபுணரை அணுகவும்"
+  },
+  "🩺 Liver Disease Risk Assessment Tool": {
+    "English": "🩺 Liver Disease Risk Assessment Tool",
+    "Tamil": "🩺 கல்லீரல் நோய் ஆபத்து மதிப்பீட்டு கருவி"
+  },
+  "❌ Failed to load model:": {
+    "English": "❌ Failed to load model:",
+    "Tamil": "❌ மாதிரியை ஏற்றுவதில் தோல்வி:"
+  },
+  "⚠️ Medical Disclaimer": {
+    "English": "⚠️ Medical Disclaimer",
+    "Tamil": "⚠️ மருத்துவ வாசகம்"
+  },
+  "medical_disclaimer_text": {
+    "English": "**Important:** This tool is for educational purposes only and is not a substitute for professional medical advice. The prediction is based on statistical models and should not be used for self-diagnosis or treatment decisions. Always consult with a healthcare provider for proper diagnosis and treatment.",
+    "Tamil": "**முக்கியம்:** இந்த கருவி கல்விப் பயிற்சிக்காக மட்டுமே பயன்படுத்தப்படுகிறது மற்றும் இது மருத்துவ நிபுணரின் ஆலோசனைக்கு மாற்றாக இருக்க முடியாது. கணிப்புகள் புள்ளியியல் மாதிரிகளின் அடிப்படையில் செய்யப்பட்டவை மற்றும் சுயதீர்மானத்திற்கு அல்லது சிகிச்சை முடிவுகளுக்கு பயன்படுத்தக்கூடாது. சரியான நோயறிதலுக்கும் சிகிச்சைக்கும் எப்போதும் ஒரு மருத்துவ நிபுணரை அணுகவும்."
+  },
+  "📊 Parameter Information": {
+    "English": "📊 Parameter Information",
+    "Tamil": "📊 அளவுரு தகவல்"
+  },
+  "### Testing Parameters": {
+    "English": "### Testing Parameters",
+    "Tamil": "பரிசோதனை அளவுருக்கள்"
+  },
+  "### Normal Reference Ranges": {
+    "English": "### Normal Reference Ranges",
+    "Tamil": "சாதாரண குறிப்பு வரம்புகள்"
+  },
+  "Total_Bilirubin_desc": {
+    "English": "A yellowish substance in the blood that indicates liver function.",
+    "Tamil": "கருப்பை செயல்பாட்டைக் குறிக்கும், இரத்தத்தில் காணப்படும் மஞ்சள் நிறப் பொருள்."
+  },
+  "Direct_Bilirubin_desc": {
+    "English": "A component of total bilirubin that is directly measured.",
+    "Tamil": "மொத்த பிலிருபினின் ஒரு பகுதி, நேரடியாக அளவிடப்படுகிறது."
+  },
+  "Alkaline_Phosphotase_desc": {
+    "English": "An enzyme found in the liver and bones.",
+    "Tamil": "கல்லீரல் மற்றும் எலும்புகளில் காணப்படும் ஒரு என்ஜைம்."
+  },
+  "Alamine_Aminotransferase_desc": {
+    "English": "An enzyme found primarily in the liver (ALT).",
+    "Tamil": "முக்கியமாக கல்லீரலில் காணப்படும் ஒரு என்ஜைம் (ALT)."
+  },
+  "Aspartate_Aminotransferase_desc": {
+    "English": "An enzyme found in the liver and other tissues (AST).",
+    "Tamil": "கல்லீரல் மற்றும் பிற திசுக்களில் காணப்படும் ஒரு என்ஜைம் (AST)."
+  },
+  "Total_Protiens_desc": {
+    "English": "The total amount of proteins in the blood.",
+    "Tamil": "இரத்தத்தில் உள்ள மொத்த புரத அளவு."
+  },
+  "Albumin_desc": {
+    "English": "The main protein found in blood plasma.",
+    "Tamil": "இரத்த பிளாஸ்மாவில் காணப்படும் முக்கிய புரதம்."
+  },
+  "Albumin_and_Globulin_Ratio_desc": {
+    "English": "The ratio of albumin to globulin in the blood.",
+    "Tamil": "இரத்தத்தில் அல்புமின் மற்றும் குளோபுலின் உடைய விகிதம்."
+  },
+  "Full Name": {
+    "English": "Full Name",
+    "Tamil": "முழுப் பெயர்"
+  },
+  "Laboratory Test Results": {
+    "English": "Laboratory Test Results",
+    "Tamil": "மருத்துவ ஆய்வுத் தரவுகள்"
+  },
+  "Enter your lab test results below. Hover over each parameter for information about normal ranges.": {
+    "English": "Enter your lab test results below. Hover over each parameter for information about normal ranges.",
+    "Tamil": "உங்கள் ஆய்வுத் தரவுகளை கீழே உள்ளிடவும். சாதாரண வரம்புகளைப் பற்றி அறிய, ஒவ்வொரு அளவுருவிலும் மேல் மிதக்கவும்."
+  },
+  "⚠️ Value outside normal range": {
+    "English": "⚠️ Value outside normal range",
+    "Tamil": "⚠️ மதிப்பு சாதாரண வரம்பை மீறுகிறது"
+  },
+  "Please enter your name": {
+    "English": "Please enter your name",
+    "Tamil": "தயவுசெய்து உங்கள் பெயரை உள்ளிடவும்"
+  },
+  "must be greater than zero": {
+    "English": "must be greater than zero",
+    "Tamil": "பூஜ்யத்தை விட அதிகமாக இருக்க வேண்டும்"
+  },
+  "Prediction Result": {
+    "English": "Prediction Result",
+    "Tamil": "கணிப்பு முடிவு"
+  },
+  "⚠️ Liver Disease Risk Detected": {
+    "English": "⚠️ Liver Disease Risk Detected",
+    "Tamil": "⚠️ கல்லீரல் நோய்க்கான அபாயம் கண்டறியப்பட்டது"
+  },
+  "Based on the provided laboratory values, our model suggests a **higher risk of liver disease**": {
+    "English": "Based on the provided laboratory values, our model suggests a **higher risk of liver disease**",
+    "Tamil": "நீங்கள் வழங்கிய ஆய்வுத் தரவுகளின் அடிப்படையில், உங்கள் கல்லீரலில் **அதிக அபாயம்** இருப்பதாக மாதிரி காண்கிறது"
+  },
+  "Important Notice:": {
+    "English": "Important Notice:",
+    "Tamil": "முக்கியக் குறிப்பு:"
+  },
+  "- This is not a diagnosis, but a risk assessment based on your test results": {
+    "English": "- This is not a diagnosis, but a risk assessment based on your test results",
+    "Tamil": "- இது ஒரு தீர்மானம் அல்ல, உங்கள் சோதனை முடிவுகளின் அடிப்படையிலான அபாய மதிப்பீடு மட்டும்"
+  },
+  "- Please consult with a hepatologist or gastroenterologist for proper evaluation": {
+    "English": "- Please consult with a hepatologist or gastroenterologist for proper evaluation",
+    "Tamil": "- சரியான மதிப்பீடிற்காக ஒரு கல்லீரல் நிபுணரையோ குடல் நிபுணரையோ அணுகவும்"
+  },
+  "- Further diagnostic tests may be needed to confirm any liver condition": {
+    "English": "- Further diagnostic tests may be needed to confirm any liver condition",
+    "Tamil": "- கல்லீரல் நிலையை உறுதிப்படுத்த கூடுதல் பரிசோதனைகள் தேவைப்படலாம்"
+  },
+  "### Concerning Laboratory Values": {
+    "English": "### Concerning Laboratory Values",
+    "Tamil": "### கவலைக்கிடமான ஆய்வுத் தரவுகள்"
+  },
+  "✅ No Liver Disease Risk Detected": {
+    "English": "✅ No Liver Disease Risk Detected",
+    "Tamil": "✅ கல்லீரல் நோய்க்கான அபாயம் இல்லை"
+  },
+  "Based on the provided laboratory values, our model suggests a **low risk of liver disease**": {
+    "English": "Based on the provided laboratory values, our model suggests a **low risk of liver disease**",
+    "Tamil": "வழங்கப்பட்ட ஆய்வுத் தரவுகளின் அடிப்படையில், கல்லீரல் நோய்க்கான **குறைவான அபாயம்** என மாதிரி கூறுகிறது"
+  },
+  "**Recommendations:**": {
+    "English": "**Recommendations:**",
+    "Tamil": "**பரிந்துரைகள்:**"
+  },
+  "- Continue with regular health check-ups": {
+    "English": "- Continue with regular health check-ups",
+    "Tamil": "- தவறாமல் உடல்நல பரிசோதனைகளை தொடரவும்"
+  },
+  "- Maintain a healthy lifestyle with proper diet and exercise": {
+    "English": "- Maintain a healthy lifestyle with proper diet and exercise",
+    "Tamil": "- சரியான உணவு மற்றும் உடற்பயிற்சியுடன் ஆரோக்கியமான வாழ்க்கை முறையை பின்பற்றவும்"
+  },
+  "- Limit alcohol consumption": {
+    "English": "- Limit alcohol consumption",
+    "Tamil": "- மதுபான பயன்பாட்டை கட்டுப்படுத்தவும்"
+  },
+  "- Stay hydrated and maintain a balanced diet": {
+    "English": "- Stay hydrated and maintain a balanced diet",
+    "Tamil": "- சீராக நீர் குடிக்கவும், சமநிலையுடனான உணவை பின்பற்றவும்"
+  },
+  "📜 Previous Assessments": {
+    "English": "📜 Previous Assessments",
+    "Tamil": "📜 முந்தைய மதிப்பீடுகள்"
+  },
+  "Normal Range:": {
+    "English": "Normal Range:",
+    "Tamil": "இயல்பான வரம்பு:"
+  },
+  "Assessment": {
+    "English": "Assessment",
+    "Tamil": "மதிப்பீடு"
+  },
+  "Information": {
+    "English": "Information",
+    "Tamil": "தகவல்"
+  },
+  "Understanding Liver Function Tests": {
+    "English": "Understanding Liver Function Tests",
+    "Tamil": "கல்லீரல் செயல்பாட்டு பரிசோதனைகளைப் புரிந்து கொள்வது"
+  },
+  "liver_info_markdown": {
+    "English": "### What are Liver Function Tests?\nLiver function tests are blood tests that measure different enzymes and proteins in your blood to help evaluate how well your liver is working.\n\n### Common Liver Function Tests\n\n| Test | What it Measures | Why it's Important |\n|------|------------------|-------------------|\n| Total Bilirubin | Yellow substance produced during the breakdown of red blood cells | Elevated levels may indicate liver damage or disease |\n| Direct Bilirubin | The portion of bilirubin that is directly measured | Can help differentiate between different types of liver or bile duct problems |\n| Alkaline Phosphatase | Enzyme found in the liver and bones | Elevated levels may indicate bile duct blockage or certain bone disorders |\n| ALT (Alamine Aminotransferase) | Enzyme found primarily in the liver | Sensitive indicator of liver cell damage |\n| AST (Aspartate Aminotransferase) | Enzyme found in the liver and other tissues | Elevated in liver damage, but less specific than ALT |\n| Total Proteins | All proteins in the blood | Can indicate nutritional status or liver function |\n| Albumin | The main protein made by the liver | Low levels can indicate chronic liver disease or malnutrition |\n| Albumin/Globulin Ratio | Ratio of albumin to other proteins | Can help differentiate between causes of abnormal protein levels |\n\n### Factors Affecting Liver Health\n- Alcohol consumption\n- Viral hepatitis (B, C)\n- Fatty liver disease\n- Certain medications\n- Autoimmune conditions\n- Genetic disorders\n\n### When to Consult a Doctor\nConsult a healthcare provider if you experience:\n- Yellowing of skin or eyes (jaundice)\n- Abdominal pain or swelling\n- Chronic fatigue\n- Nausea or vomiting\n- Dark urine or pale stools",
+    "Tamil": "### கல்லீரல் செயல்பாட்டு பரிசோதனைகள் என்றால் என்ன?\nஇவை இரத்தத்தில் உள்ள பல்வேறு என்ஜைம்கள் மற்றும் புரதங்களை அளக்கும் இரத்தப்பரிசோதனைகள் ஆகும், உங்கள் கல்லீரல் செயல்பாடு எப்படி உள்ளது என்பதை மதிப்பீடு செய்ய உதவுகின்றன.\n\n### பொதுவான கல்லீரல் செயல்பாட்டு பரிசோதனைகள்\n\n| பரிசோதனை | அது என்னை அளக்கிறது | ஏன் இது முக்கியம் |\n|------|------------------|-------------------|\n| மொத்த பிலிருபின் | சிவப்பு இரத்த அணுக்கள் உடையும் போது உருவாகும் மஞ்சள் பொருள் | அதிக அளவு கல்லீரல் சேதம் அல்லது நோயைக் குறிக்கலாம் |\n| நேரடி பிலிருபின் | நேரடியாக அளவிடப்படும் பிலிருபின் பகுதி | கல்லீரல் அல்லது பைல் குழாய் சிக்கல்களைக் வேறுபடுத்த உதவுகிறது |\n| அல்கலைன் பாஸ்பட்டேஸ் | கல்லீரல் மற்றும் எலும்புகளில் காணப்படும் என்ஜைம் | பைல் குழாய் அடைப்பு அல்லது எலும்பு கோளாறுகளை குறிக்கலாம் |\n| ALT | முக்கியமாக கல்லீரலில் காணப்படும் என்ஜைம் | கல்லீரல் செல்கள் சேதத்தின் உணர்வுள்ள குறிகாட்டி |\n| AST | கல்லீரல் மற்றும் பிற திசுக்களில் காணப்படும் என்ஜைம் | கல்லீரல் சேதத்தில் அதிகரிக்கும், ஆனால் ALT-ஐவிட குறைவாக இருக்கலாம் |\n| மொத்த புரதங்கள் | இரத்தத்தில் உள்ள அனைத்து புரதங்களும் | ஊட்டச்சத்து நிலை அல்லது கல்லீரல் செயல்பாட்டைக் குறிக்கலாம் |\n| அல்புமின் | கல்லீரல் உருவாக்கும் முக்கிய புரதம் | குறைந்த அளவுகள் நீடித்த கல்லீரல் நோய் அல்லது ஊட்டச்சத்து குறையை குறிக்கலாம் |\n| அல்புமின்/குளோபுலின் விகிதம் | அல்புமினுக்கு பிற புரதங்களுக்கிடையிலான விகிதம் | அசாதாரண புரத அளவுகளுக்கான காரணங்களை வேறுபடுத்த உதவுகிறது |\n\n### கல்லீரல் ஆரோக்கியத்தை பாதிக்கும் காரணிகள்\n- மதுபானம் அருந்துவது\n- வைரஸ் ஹெபடைடிடிஸ் (B, C)\n- கொழுப்பு கல்லீரல் நோய்\n- சில மருந்துகள்\n- தானியங்கி நோய்கள்\n- மரபணு குறைபாடுகள்\n\n### எப்போது ஒரு மருத்துவரை அணுக வேண்டும்\nபின்வரும் அறிகுறிகள் இருந்தால் மருத்துவரை அணுகவும்:\n- தோல் அல்லது கண்களில் மஞ்சள் நிறம் (காமாலை)\n- வயிற்று வலி அல்லது வீக்கம்\n- நீடித்த சோர்வு\n- வாந்தி உணர்வு அல்லது வாந்தி\n- கரும்பட்ட சிறுநீர் அல்லது வெளிர் மலம்"
+  },
+  "Patient Information": {
+    "English": "Patient Information",
+    "Tamil": "நோயாளி விவரங்கள்"
+  },
+  "🔵 Status: `Below Normal`": {
+    "English": "🔵 Status: `Below Normal`",
+    "Tamil": "🔵 நிலை: `சாதாரணத்திற்குக் கீழ்`"
+  },
+  "📋 Dosage Information": {
+    "English": "📋 Dosage Information",
+    "Tamil": "📋 மருந்தளவு விவரங்கள்"
+  },
+  "✅ **Rest** 🛌  \n✅ **Hydrate** 💧  \n✅ **Light clothing** 👕  \n✅ **Lukewarm sponge bath** 🧽  \n✅ **Monitor temperature** 📈": {
+    "English": "✅ **Rest** 🛌  \n✅ **Hydrate** 💧  \n✅ **Light clothing** 👕  \n✅ **Lukewarm sponge bath** 🧽  \n✅ **Monitor temperature** 📈",
+    "Tamil": "✅ **ஓய்வு எடுக்கவும்** 🛌\n✅ **நீர் பருகவும்** 💧\n✅ **லேசான ஆடைகள் அணியவும்** 👕\n✅ **வெதுவெதுப்பான நீரால் குளிக்கவும்** 🧽\n✅ **வெப்பநிலையை கண்காணிக்கவும்** 📈"
+  },
+  "❌ Ice baths  \n❌ Alcohol rubs  \n❌ Double dosing  \n❌ Ignoring symptoms  \n❌ Skipping meals": {
+    "English": "❌ Ice baths  \n❌ Alcohol rubs  \n❌ Double dosing  \n❌ Ignoring symptoms  \n❌ Skipping meals",
+    "Tamil": "❌ ஐஸ் குளியல்\n❌ ஆல்கஹால் தேய்த்து துப்புறவு\n❌ இரட்டை மருந்தளவு\n❌ அறிகுறிகளை புறக்கணித்தல்\n❌ உணவை தவிர்த்தல்"
+  },
+  "🚨 Emergency Symptoms – Seek Care If:": {
+    "English": "🚨 Emergency Symptoms – Seek Care If:",
+    "Tamil": "🚨 அவசர அறிகுறிகள் – கீழ்காணும் நிலைகள் இருந்தால் உடனடியாக கவனம் தேவை:"
+  },
+  "An error occurred": {
+    "English": "An error occurred",
+    "Tamil": "ஒரு பிழை ஏற்பட்டது"
+  },
+  "✅ Temperature from Home Section":{
+    "English":"✅ Temperature from Home Section",
+    "Tamil":"✅ வீட்டுப் பகுதியிலிருந்து வெப்பநிலை"
+  },
+  "🩺 Symptom Tracker": {
+    "English": "🩺 Symptom Tracker",
+    "Tamil": "🩺 அறிகுறி கண்காணிப்பு"
+  },
+  "Select symptoms you're experiencing today:": {
+    "English": "Select symptoms you're experiencing today:",
+    "Tamil": "இன்று நீங்கள் அனுபவிக்கும் அறிகுறிகளை தேர்ந்தெடுக்கவும்:"
+  },
+  "Date": {
+    "English": "Date",
+    "Tamil": "தேதி"
+  },
+  "Symptom Details:": {
+    "English": "Symptom Details:",
+    "Tamil": "அறிகுறி விவரங்கள்:"
+  },
+  "Severity:": {
+    "English": "Severity:",
+    "Tamil": "தீவிரம்:"
+  },
+  "Duration:": {
+    "English": "Duration:",
+    "Tamil": "காலம்:"
+  },
+  "Log Symptoms": {
+    "English": "Log Symptoms",
+    "Tamil": "அறிகுறிகளை பதிவு செய்யவும்"
+  },
+  "Symptoms logged successfully!": {
+    "English": "Symptoms logged successfully!",
+    "Tamil": "அறிகுறிகள் வெற்றிகரமாக பதிவு செய்யப்பட்டன!"
+  },
+  "📝 Symptom Log": {
+    "English": "📝 Symptom Log",
+    "Tamil": "📝 அறிகுறி பதிவுகள்"
+  },
+  "No symptoms logged yet. Start tracking your symptoms to see pattern analysis.": {
+    "English": "No symptoms logged yet. Start tracking your symptoms to see pattern analysis.",
+    "Tamil": "இதுவரை எந்த அறிகுறிகளும் பதிவு செய்யப்படவில்லை. உருவமைப்பு பகுப்பாய்வைப் பார்க்க அறிகுறிகளை கண்காணிக்கத் தொடங்குங்கள்."
+  },
+  "Started today": {
+    "English": "Started today",
+    "Tamil": "இன்று தொடங்கியது"
+  },
+  "1-2 days": {
+    "English": "1-2 days",
+    "Tamil": "1-2 நாட்கள்"
+  },
+  "3-5 days": {
+    "English": "3-5 days",
+    "Tamil": "3-5 நாட்கள்"
+  },
+  "1-2 weeks": {
+    "English": "1-2 weeks",
+    "Tamil": "1-2 வாரங்கள்"
+  },
+  "More than 2 weeks": {
+    "English": "More than 2 weeks",
+    "Tamil": "2 வாரங்களுக்கு மேல்"
+  },
+  "Mild": {
+    "English": "Mild",
+    "Tamil": "லேசான"
+  },
+  "Moderate": {
+    "English": "Moderate",
+    "Tamil": "மிதமான"
+  },
+  "Severe": {
+    "English": "Severe",
+    "Tamil": "தீவிரமான"
+  },
+  "📄 User Consent": {
+    "English": "📄 User Consent",
+    "Tamil": "📄 பயனர் ஒப்புதல்"
+  },
+  "✅ I agree to the terms and conditions outlined in the User Consent Form.": {
+    "English": "✅ I agree to the terms and conditions outlined in the User Consent Form.",
+    "Tamil": "✅ பயனர் ஒப்புதல் படிவத்தில் கூறப்பட்ட விதிமுறைகளுடன் ஒப்புக்கொள்கிறேன்."
+  },
+  "🖊️ Enter your full name to sign the consent form:": {
+    "English": "🖊️ Enter your full name to sign the consent form:",
+    "Tamil": "🖊️ ஒப்புதல் படிவத்தில் கையெழுத்திட உங்கள் முழுப் பெயரை உள்ளிடவும்:"
+  },
+  "📄 Download Your Signed Consent Form": {
+    "English": "📄 Download Your Signed Consent Form",
+    "Tamil": "📄 உங்களது கையொப்பமிடப்பட்ட ஒப்புதல் படிவத்தை பதிவிறக்கவும்"
+  },
+  "📄 View Consent Form in New Tab": {
+    "English": "📄 View Consent Form in New Tab",
+    "Tamil": "📄 ஒப்புதல் படிவத்தை புதிய தாவலில் காண்க"
+  },
+  "❌ Failed to load consent form template from Google Drive.": {
+    "English": "❌ Failed to load consent form template from Google Drive..",
+    "Tamil": "❌ கூகுள் டிரைவில் இருந்து ஒப்புதல் படிவத்தை பதிவிறக்க முடியவில்லை."
+  }
+}
