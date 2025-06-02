@@ -42,7 +42,7 @@ This project is an AI-powered web and mobile-compatible application built using 
 ### 📁 How to Run
 
 1. Clone this repo
-   `git clone https://github.com/yourusername/chronic-disease-prediction.git`
+   `git clone [https://github.com/Arunk292002/chronic-disease-prediction.git](https://github.com/Arunk292002/Chronic-Disease-Prediction-and-Management-System.git)`
 2. Install dependencies
    `pip install -r requirements.txt`
 3. Launch Streamlit
